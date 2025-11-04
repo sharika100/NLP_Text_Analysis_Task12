@@ -1,0 +1,5 @@
+Name: Alice Johnson
+Email: alice.johnson@example.com
+Phone: +1 555-123-4567
+Experience: 3 years in data analysis.
+Education: B.Sc. Computer Science.
