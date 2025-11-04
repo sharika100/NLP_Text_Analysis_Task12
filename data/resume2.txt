@@ -1,0 +1,5 @@
+Resume
+Rahul Menon
+Email: rahul.m@example.co.in
+Mobile: 91-98765-43210
+Worked on machine learning projects and NLP.

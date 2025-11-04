@@ -1,0 +1,4 @@
+Curriculum Vitae
+Name: Priya S.
+Contact: priya_s123@gmail.com, Phone: (044) 2567 8910
+Summary: Research intern, experience in Python and data preprocessing.
